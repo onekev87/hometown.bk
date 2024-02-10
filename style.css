@@ -15,11 +15,9 @@ h1 {
     padding-bottom: 90px;
     margin-bottom: 0;
     margin-top: 0;
-    /* question for Don: why didnt this work... didnt seperate h1 from background ??  */
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    
 }   
 
 h1:hover {
@@ -33,7 +31,6 @@ h1:hover {
     display: flex;
     justify-content: space-evenly;
     text-align: center;
-
 }
 
 .card {
@@ -51,7 +48,6 @@ h2 {
     margin-bottom: 1px;
 }
 
-
 button {
     margin-top: 10px;
     margin-bottom: 30px;
@@ -62,7 +58,6 @@ button {
     box-shadow: 2px 5px rgb(36, 35, 35);
     font-family: 'Single Day', cursive;;
     font-size: 15px;
-
 }
 
 button:hover {
